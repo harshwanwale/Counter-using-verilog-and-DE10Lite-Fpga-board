@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Mon May 22 14:23:17 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : sevenseg
+Top-level Entity Name : sevenseg
+Family : MAX 10
+Total logic elements : 136
+    Total combinational functions : 136
+    Dedicated logic registers : 51
+Total registers : 51
+Total pins : 44
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
